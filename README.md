@@ -8,3 +8,6 @@
 * git push          远程仓库
 * git branch 0.1    创建0.1分支
 * git checkout 0.1  检出0.1分支
+
+* git brach 0.2-1
+* git checkout 0.2-1 
