@@ -14,6 +14,5 @@ def files_digui_dir(pathdir):
         else:
             print(filepatch)
 if __name__ =="__main__":
-
     files_digui_dir('/Users/gaoxuejian/')
 
